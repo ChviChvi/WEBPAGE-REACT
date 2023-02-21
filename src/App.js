@@ -1,7 +1,10 @@
 import React from 'react';
+import Basket from './Basket'
 
 function App() {
-  return null
+  return (
+      <Basket />
+  )
 }
 
 export default App;
