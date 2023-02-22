@@ -1,0 +1,24 @@
+
+div {
+    width: fit-content;
+    text-align: center;
+}
+table {
+    border: 1px solid black;
+}
+td{border-bottom-style: dashed;
+    border-right-style: solid;
+    text-align: center;
+
+}
+
+button{
+    background-color: #FEFBE9;
+    color: #060047;
+    margin: 0rem 0.2rem;
+
+}
+.sum{text-align: center}
+body{
+    background-color: #F0EEED;
+}
