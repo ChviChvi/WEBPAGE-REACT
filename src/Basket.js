@@ -280,13 +280,13 @@ export const checkoutlist=[
         "upsellProductId": "sugar-organic-1kg"
     },
     {
-        "id": "sugar-organic-1kg",
-        "name": "Rørsukker, økologisk, 1000g",
-        "price": 45,
-        "currency": "DKK",
-        "quantity":"1",
-        "rebateQuantity": 2,
-        "rebatePercent": 10,
-        "upsellProductId": null
+        id: "sugar-organic-1kg",
+        name: "Rørsukker, økologisk, 1000g",
+        price: 45,
+        currency: "DKK",
+        quantity:"1",
+        rebateQuantity: 2,
+        rebatePercent: 10,
+        upsellProductId: null
     }
 ];
