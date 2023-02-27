@@ -1,4 +1,31 @@
+h1 {
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 700;
+    color: #1A120B;
+}
+
+
+div {
+    width: fit-content;
+    text-align: center;
+
+}
+
+td{border-bottom-style: dashed;
+    border-right-style: solid;
+    text-align: center;
+
+}
+
+
+.sum{text-align: center}
+body{
+
+}
 table {
+    background-color: #FFF;
     border-collapse: collapse;
     width: 100%;
     max-width: 800px;
@@ -11,11 +38,13 @@ th {
     text-align: left;
     background-color: #EDDBC7;
     padding: 8px;
+
 }
 
 td {
     padding: 8px;
     border-bottom: 2px solid #ddd;
+
 }
 
 tr:nth-child(even) {
@@ -31,8 +60,9 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
     cursor: pointer;
+    border-radius: 10%;
+    margin: 4px 10px;
 }
 
 button:hover {
@@ -48,4 +78,10 @@ button:hover {
 .total span {
     color: #4CAF50;
 }
+
+.id-headers{
+    font-weight: bolder;
+}
+
+
 

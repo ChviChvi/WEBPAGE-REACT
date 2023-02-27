@@ -4,7 +4,6 @@ export const checkoutlist=[
         "name": "D-vitamin, 90ug, 100 stk",
         "price": 116,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 3,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -14,7 +13,6 @@ export const checkoutlist=[
         "name": "C-vitamin, 500mg, 250 stk",
         "price": 150,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 25,
         "upsellProductId": "vitamin-c-depot-500-250"
@@ -24,7 +22,6 @@ export const checkoutlist=[
         "name": "C-vitamin Depot, 500mg, 250 stk",
         "price": 175,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 3,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -34,7 +31,6 @@ export const checkoutlist=[
         "name": "Omega 3 fiskeolie, 1000mg, 120 stk",
         "price": 69,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 5,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -44,7 +40,6 @@ export const checkoutlist=[
         "name": "Kaffekværn",
         "price": 145,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": "coffee-grinder-pro"
@@ -54,7 +49,6 @@ export const checkoutlist=[
         "name": "Kaffekværn Præcision",
         "price": 320,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -64,7 +58,6 @@ export const checkoutlist=[
         "name": "Tandbørste, 5stk",
         "price": 40,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": "toothbrush-bamboo"
@@ -94,7 +87,6 @@ export const checkoutlist=[
         "name": "Barbermaskine m batteri",
         "price": 350,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -104,7 +96,6 @@ export const checkoutlist=[
         "name": "Hårklemme",
         "price": 25,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 20,
         "upsellProductId": "hair-clip-large"
@@ -114,7 +105,6 @@ export const checkoutlist=[
         "name": "Hårklemme, stor",
         "price": 45,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -124,7 +114,6 @@ export const checkoutlist=[
         "name": "Tørklæde, bomuld",
         "price": 100,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": "scarf-wool"
@@ -134,7 +123,6 @@ export const checkoutlist=[
         "name": "Tørklæde, uld",
         "price": 150,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": "scarf-silk"
@@ -144,7 +132,6 @@ export const checkoutlist=[
         "name": "Tørklæde, silke",
         "price": 250,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -154,7 +141,6 @@ export const checkoutlist=[
         "name": "Kasket",
         "price": 150,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": "cap-flat"
@@ -164,7 +150,6 @@ export const checkoutlist=[
         "name": "Kasket, sixpence",
         "price": 590,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -174,7 +159,6 @@ export const checkoutlist=[
         "name": "Plysbamse",
         "price": 75,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": "teddy-large"
@@ -184,7 +168,6 @@ export const checkoutlist=[
         "name": "Plysbamse, stor",
         "price": 150,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -194,7 +177,6 @@ export const checkoutlist=[
         "name": "De små synger",
         "price": 120,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": "kids-songbook-hardcover"
@@ -204,7 +186,6 @@ export const checkoutlist=[
         "name": "De små synger, indbundet",
         "price": 180,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 0,
         "rebatePercent": 0,
         "upsellProductId": null
@@ -214,7 +195,6 @@ export const checkoutlist=[
         "name": "Kaffebønner",
         "price": 50,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 4,
         "rebatePercent": 25,
         "upsellProductId": "coffeebeans-organic-500g"
@@ -224,7 +204,6 @@ export const checkoutlist=[
         "name": "Kaffebønner, økologiske",
         "price": 60,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -234,7 +213,6 @@ export const checkoutlist=[
         "name": "Sort te, 100g",
         "price": 20,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 4,
         "rebatePercent": 25,
         "upsellProductId": "the-darjeeling-100g"
@@ -244,7 +222,6 @@ export const checkoutlist=[
         "name": "Sort te, Darjeeling, 100g",
         "price": 30,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 4,
         "rebatePercent": 25,
         "upsellProductId": "the-organic-100g"
@@ -254,7 +231,6 @@ export const checkoutlist=[
         "name": "Sort te, Darjeeling, økologisk, 100g",
         "price": 35,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 2,
         "rebatePercent": 10,
         "upsellProductId": null
@@ -264,7 +240,6 @@ export const checkoutlist=[
         "name": "Sukker, hvidt, 1000g",
         "price": 30,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 4,
         "rebatePercent": 25,
         "upsellProductId": "sugar-cane-1kg"
@@ -274,19 +249,17 @@ export const checkoutlist=[
         "name": "Rørsukker, 1000g",
         "price": 40,
         "currency": "DKK",
-        "quantity":"1",
         "rebateQuantity": 4,
         "rebatePercent": 25,
         "upsellProductId": "sugar-organic-1kg"
     },
     {
-        id: "sugar-organic-1kg",
-        name: "Rørsukker, økologisk, 1000g",
-        price: 45,
-        currency: "DKK",
-        quantity:"1",
-        rebateQuantity: 2,
-        rebatePercent: 10,
-        upsellProductId: null
+        "id": "sugar-organic-1kg",
+        "name": "Rørsukker, økologisk, 1000g",
+        "price": 45,
+        "currency": "DKK",
+        "rebateQuantity": 2,
+        "rebatePercent": 10,
+        "upsellProductId": null
     }
 ];
