@@ -82,7 +82,7 @@ function List() {
                 <td>Price</td>
                 <td>Quantity</td>
                 <td>Total</td>
-                <td>Slet</td>
+                <td>Remove</td>
             </tr>
             </thead>
             <tbody>
